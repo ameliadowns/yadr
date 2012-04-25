@@ -109,3 +109,7 @@
   # Remember my merges
   # http://gitfu.wordpress.com/2008/04/20/git-rerere-rereremember-what-you-did-last-time/
   enabled = true
+[include]
+  # Create a file to place local configs
+  # Note: git version 1.7.10 or nerwer required, brew install git version is at least that
+  path = .gitconfig.local

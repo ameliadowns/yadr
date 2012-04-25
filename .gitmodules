@@ -302,6 +302,10 @@
 	path = vim/bundle/vim-scripts-Specky
 	url = https://github.com/vim-scripts/Specky.git
   ignore = dirty
+[submodule "vim/bundle/vim-php"]
+	path = vim/bundle/vim-php
+	url = https://github.com/madflow/vim-php.git
+	ignore = dirty
 [submodule "zsh/zsh-syntax-highlighting"]
 	path = zsh/zsh-syntax-highlighting
 	url = git://github.com/zsh-users/zsh-syntax-highlighting.git
