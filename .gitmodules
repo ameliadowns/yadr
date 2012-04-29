@@ -309,3 +309,6 @@
 	path = vim/bundle/vim-php
 	url = https://github.com/madflow/vim-php.git
 	ignore = dirty
+[submodule "vim/bundle/skwp-vim-spec-finder"]
+	path = vim/bundle/skwp-vim-spec-finder
+	url = https://github.com/skwp/vim-spec-finder
